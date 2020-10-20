@@ -1,2 +1,2 @@
 # practice-sandbox
-a sandbox for practicing Git and GitHub contributions
+A sandbox for practicing Git and GitHub contributions.
